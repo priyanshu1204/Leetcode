@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/priyanshu1204/Leetcode/tree/master/0141-linked-list-cycle) |
+| [0205-isomorphic-strings](https://github.com/priyanshu1204/Leetcode/tree/master/0205-isomorphic-strings) |
 ## Linked List
 |  |
 | ------- |
@@ -21,4 +22,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/priyanshu1204/Leetcode/tree/master/0141-linked-list-cycle) |
+## String
+|  |
+| ------- |
+| [0205-isomorphic-strings](https://github.com/priyanshu1204/Leetcode/tree/master/0205-isomorphic-strings) |
 <!---LeetCode Topics End-->
