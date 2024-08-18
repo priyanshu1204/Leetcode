@@ -35,4 +35,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1137-height-checker](https://github.com/priyanshu1204/Leetcode/tree/master/1137-height-checker) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/priyanshu1204/Leetcode/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
