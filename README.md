@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/priyanshu1204/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0217-contains-duplicate](https://github.com/priyanshu1204/Leetcode/tree/master/0217-contains-duplicate) |
 | [0890-lemonade-change](https://github.com/priyanshu1204/Leetcode/tree/master/0890-lemonade-change) |
 | [1137-height-checker](https://github.com/priyanshu1204/Leetcode/tree/master/1137-height-checker) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/priyanshu1204/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/priyanshu1204/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -62,8 +64,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/priyanshu1204/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/priyanshu1204/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0476-number-complement](https://github.com/priyanshu1204/Leetcode/tree/master/0476-number-complement) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/priyanshu1204/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/priyanshu1204/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 <!---LeetCode Topics End-->
