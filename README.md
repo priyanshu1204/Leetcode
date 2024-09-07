@@ -35,12 +35,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/priyanshu1204/Leetcode/tree/master/0002-add-two-numbers) |
 | [0141-linked-list-cycle](https://github.com/priyanshu1204/Leetcode/tree/master/0141-linked-list-cycle) |
+| [0143-reorder-list](https://github.com/priyanshu1204/Leetcode/tree/master/0143-reorder-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/priyanshu1204/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Two Pointers
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/priyanshu1204/Leetcode/tree/master/0011-container-with-most-water) |
 | [0141-linked-list-cycle](https://github.com/priyanshu1204/Leetcode/tree/master/0141-linked-list-cycle) |
+| [0143-reorder-list](https://github.com/priyanshu1204/Leetcode/tree/master/0143-reorder-list) |
 ## String
 |  |
 | ------- |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/priyanshu1204/Leetcode/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/priyanshu1204/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0143-reorder-list](https://github.com/priyanshu1204/Leetcode/tree/master/0143-reorder-list) |
 | [0937-online-stock-span](https://github.com/priyanshu1204/Leetcode/tree/master/0937-online-stock-span) |
 ## Tree
 |  |
@@ -120,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/priyanshu1204/Leetcode/tree/master/0002-add-two-numbers) |
+| [0143-reorder-list](https://github.com/priyanshu1204/Leetcode/tree/master/0143-reorder-list) |
 ## Breadth-First Search
 |  |
 | ------- |
