@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/priyanshu1204/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/priyanshu1204/Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/priyanshu1204/Leetcode/tree/master/0112-path-sum) |
+| [0222-count-complete-tree-nodes](https://github.com/priyanshu1204/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -138,11 +139,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/priyanshu1204/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/priyanshu1204/Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/priyanshu1204/Leetcode/tree/master/0112-path-sum) |
+| [0222-count-complete-tree-nodes](https://github.com/priyanshu1204/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/priyanshu1204/Leetcode/tree/master/0029-divide-two-integers) |
 | [0136-single-number](https://github.com/priyanshu1204/Leetcode/tree/master/0136-single-number) |
+| [0222-count-complete-tree-nodes](https://github.com/priyanshu1204/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/priyanshu1204/Leetcode/tree/master/0268-missing-number) |
 | [0476-number-complement](https://github.com/priyanshu1204/Leetcode/tree/master/0476-number-complement) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/priyanshu1204/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -158,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/priyanshu1204/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/priyanshu1204/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/priyanshu1204/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0222-count-complete-tree-nodes](https://github.com/priyanshu1204/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/priyanshu1204/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/priyanshu1204/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/priyanshu1204/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
