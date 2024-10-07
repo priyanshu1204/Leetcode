@@ -13,42 +13,40 @@
  *     }
  * }
  */
-
 class Solution {
-    int maxcount=1;
-    public int[] findMode(TreeNode root) {
-        HashMap<Integer , Integer> map=new HashMap<>();
-        FindMode(root , map);
-        ArrayList<Integer> list=new ArrayList<>();
+    private Integer prev = null;
+    private int count = 0;
+    private int maxCount = 0;
+    private List<Integer> modes = new ArrayList<>();
+    private void traverse(TreeNode node){
+        if(node==null) return;
         
+        traverse(node.left);
         
-        
-        for(Integer key : map.keySet()){
-            if(map.get(key)==maxcount){
-                list.add(key);
-            }
+        if (prev == null || node.val != prev) {
+            count = 1;
+        } else {
+            count++;
         }
-        
-        int ans[]=new int[list.size()];
-        for (int j = 0; j < list.size(); j++) {
-            ans[j] = list.get(j);
-        }
-        return ans;
-        
 
+        if (count > maxCount) {
+            maxCount = count;
+            modes.clear();
+            modes.add(node.val);
+        } else if (count == maxCount) {
+            modes.add(node.val);
+        }
+        
+        prev = node.val;
+        
+        traverse(node.right);
     }
-    public void FindMode(TreeNode root , HashMap<Integer , Integer>map){
-        if(root==null){
-            return;
-        }else if(map.containsKey(root.val)){
-            int count=map.get(root.val)+1;
-            map.put(root.val , count);
-            maxcount=Math.max(count , maxcount);
-
-        }else{
-            map.put(root.val ,1);
+    public int[] findMode(TreeNode root) {
+        traverse(root);
+        int[] result = new int[modes.size()];
+        for (int i = 0; i < modes.size(); i++) {
+            result[i] = modes.get(i);
         }
-        FindMode(root.left , map);
-        FindMode(root.right , map);
+        return result;
     }
 }
