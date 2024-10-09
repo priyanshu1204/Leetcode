@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/priyanshu1204/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/priyanshu1204/Leetcode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0563-binary-tree-tilt](https://github.com/priyanshu1204/Leetcode/tree/master/0563-binary-tree-tilt) |
+| [0904-leaf-similar-trees](https://github.com/priyanshu1204/Leetcode/tree/master/0904-leaf-similar-trees) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/priyanshu1204/Leetcode/tree/master/0112-path-sum) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/priyanshu1204/Leetcode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0563-binary-tree-tilt](https://github.com/priyanshu1204/Leetcode/tree/master/0563-binary-tree-tilt) |
+| [0904-leaf-similar-trees](https://github.com/priyanshu1204/Leetcode/tree/master/0904-leaf-similar-trees) |
 ## Binary Tree
 |  |
 | ------- |
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/priyanshu1204/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/priyanshu1204/Leetcode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0563-binary-tree-tilt](https://github.com/priyanshu1204/Leetcode/tree/master/0563-binary-tree-tilt) |
+| [0904-leaf-similar-trees](https://github.com/priyanshu1204/Leetcode/tree/master/0904-leaf-similar-trees) |
 ## Bit Manipulation
 |  |
 | ------- |
