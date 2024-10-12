@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/priyanshu1204/Leetcode/tree/master/0205-isomorphic-strings) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/priyanshu1204/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2502-sort-the-people](https://github.com/priyanshu1204/Leetcode/tree/master/2502-sort-the-people) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/priyanshu1204/Leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/priyanshu1204/Leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Sorting
 |  |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/priyanshu1204/Leetcode/tree/master/0143-reorder-list) |
 | [0937-online-stock-span](https://github.com/priyanshu1204/Leetcode/tree/master/0937-online-stock-span) |
 | [1002-maximum-width-ramp](https://github.com/priyanshu1204/Leetcode/tree/master/1002-maximum-width-ramp) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/priyanshu1204/Leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Tree
 |  |
 | ------- |
@@ -216,4 +218,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/priyanshu1204/Leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+## Simulation
+|  |
+| ------- |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/priyanshu1204/Leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 <!---LeetCode Topics End-->
