@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0624-maximum-distance-in-arrays](https://github.com/priyanshu1204/Leetcode/tree/master/0624-maximum-distance-in-arrays) |
 | [0890-lemonade-change](https://github.com/priyanshu1204/Leetcode/tree/master/0890-lemonade-change) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/priyanshu1204/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [3195-separate-black-and-white-balls](https://github.com/priyanshu1204/Leetcode/tree/master/3195-separate-black-and-white-balls) |
 ## Hash Table
 |  |
 | ------- |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/priyanshu1204/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/priyanshu1204/Leetcode/tree/master/0455-assign-cookies) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/priyanshu1204/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [3195-separate-black-and-white-balls](https://github.com/priyanshu1204/Leetcode/tree/master/3195-separate-black-and-white-balls) |
 ## String
 |  |
 | ------- |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1786-count-the-number-of-consistent-strings](https://github.com/priyanshu1204/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2502-sort-the-people](https://github.com/priyanshu1204/Leetcode/tree/master/2502-sort-the-people) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/priyanshu1204/Leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [3195-separate-black-and-white-balls](https://github.com/priyanshu1204/Leetcode/tree/master/3195-separate-black-and-white-balls) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/priyanshu1204/Leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Sorting
 |  |
