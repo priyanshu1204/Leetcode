@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/priyanshu1204/Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/priyanshu1204/Leetcode/tree/master/0455-assign-cookies) |
 | [0624-maximum-distance-in-arrays](https://github.com/priyanshu1204/Leetcode/tree/master/0624-maximum-distance-in-arrays) |
+| [0670-maximum-swap](https://github.com/priyanshu1204/Leetcode/tree/master/0670-maximum-swap) |
 | [0890-lemonade-change](https://github.com/priyanshu1204/Leetcode/tree/master/0890-lemonade-change) |
 | [1304-longest-happy-string](https://github.com/priyanshu1204/Leetcode/tree/master/1304-longest-happy-string) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/priyanshu1204/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/priyanshu1204/Leetcode/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/priyanshu1204/Leetcode/tree/master/0029-divide-two-integers) |
 | [0268-missing-number](https://github.com/priyanshu1204/Leetcode/tree/master/0268-missing-number) |
+| [0670-maximum-swap](https://github.com/priyanshu1204/Leetcode/tree/master/0670-maximum-swap) |
 ## Stack
 |  |
 | ------- |
