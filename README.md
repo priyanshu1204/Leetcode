@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/priyanshu1204/Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/priyanshu1204/Leetcode/tree/master/0455-assign-cookies) |
 | [0506-relative-ranks](https://github.com/priyanshu1204/Leetcode/tree/master/0506-relative-ranks) |
+| [0561-array-partition](https://github.com/priyanshu1204/Leetcode/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/priyanshu1204/Leetcode/tree/master/0605-can-place-flowers) |
 | [0624-maximum-distance-in-arrays](https://github.com/priyanshu1204/Leetcode/tree/master/0624-maximum-distance-in-arrays) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/priyanshu1204/Leetcode/tree/master/0748-largest-number-at-least-twice-of-others) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/priyanshu1204/Leetcode/tree/master/0011-container-with-most-water) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/priyanshu1204/Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/priyanshu1204/Leetcode/tree/master/0455-assign-cookies) |
+| [0561-array-partition](https://github.com/priyanshu1204/Leetcode/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/priyanshu1204/Leetcode/tree/master/0605-can-place-flowers) |
 | [0624-maximum-distance-in-arrays](https://github.com/priyanshu1204/Leetcode/tree/master/0624-maximum-distance-in-arrays) |
 | [0670-maximum-swap](https://github.com/priyanshu1204/Leetcode/tree/master/0670-maximum-swap) |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/priyanshu1204/Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/priyanshu1204/Leetcode/tree/master/0455-assign-cookies) |
 | [0506-relative-ranks](https://github.com/priyanshu1204/Leetcode/tree/master/0506-relative-ranks) |
+| [0561-array-partition](https://github.com/priyanshu1204/Leetcode/tree/master/0561-array-partition) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/priyanshu1204/Leetcode/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [1137-height-checker](https://github.com/priyanshu1204/Leetcode/tree/master/1137-height-checker) |
 | [1256-rank-transform-of-an-array](https://github.com/priyanshu1204/Leetcode/tree/master/1256-rank-transform-of-an-array) |
@@ -116,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/priyanshu1204/Leetcode/tree/master/0169-majority-element) |
+| [0561-array-partition](https://github.com/priyanshu1204/Leetcode/tree/master/0561-array-partition) |
 | [1137-height-checker](https://github.com/priyanshu1204/Leetcode/tree/master/1137-height-checker) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/priyanshu1204/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 ## Math
