@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/priyanshu1204/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0349-intersection-of-two-arrays](https://github.com/priyanshu1204/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/priyanshu1204/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0392-is-subsequence](https://github.com/priyanshu1204/Leetcode/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/priyanshu1204/Leetcode/tree/master/0455-assign-cookies) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/priyanshu1204/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [3195-separate-black-and-white-balls](https://github.com/priyanshu1204/Leetcode/tree/master/3195-separate-black-and-white-balls) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0006-zigzag-conversion](https://github.com/priyanshu1204/Leetcode/tree/master/0006-zigzag-conversion) |
 | [0020-valid-parentheses](https://github.com/priyanshu1204/Leetcode/tree/master/0020-valid-parentheses) |
 | [0205-isomorphic-strings](https://github.com/priyanshu1204/Leetcode/tree/master/0205-isomorphic-strings) |
+| [0392-is-subsequence](https://github.com/priyanshu1204/Leetcode/tree/master/0392-is-subsequence) |
 | [1304-longest-happy-string](https://github.com/priyanshu1204/Leetcode/tree/master/1304-longest-happy-string) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/priyanshu1204/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2502-sort-the-people](https://github.com/priyanshu1204/Leetcode/tree/master/2502-sort-the-people) |
@@ -262,4 +264,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1694-make-sum-divisible-by-p](https://github.com/priyanshu1204/Leetcode/tree/master/1694-make-sum-divisible-by-p) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/priyanshu1204/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/priyanshu1204/Leetcode/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
