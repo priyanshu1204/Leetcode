@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2132-convert-1d-array-into-2d-array](https://github.com/priyanshu1204/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/priyanshu1204/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2502-sort-the-people](https://github.com/priyanshu1204/Leetcode/tree/master/2502-sort-the-people) |
+| [3291-find-if-array-can-be-sorted](https://github.com/priyanshu1204/Leetcode/tree/master/3291-find-if-array-can-be-sorted) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/priyanshu1204/Leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/priyanshu1204/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Greedy
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1829-maximum-units-on-a-truck](https://github.com/priyanshu1204/Leetcode/tree/master/1829-maximum-units-on-a-truck) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/priyanshu1204/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2502-sort-the-people](https://github.com/priyanshu1204/Leetcode/tree/master/2502-sort-the-people) |
+| [3291-find-if-array-can-be-sorted](https://github.com/priyanshu1204/Leetcode/tree/master/3291-find-if-array-can-be-sorted) |
 ## Counting Sort
 |  |
 | ------- |
@@ -214,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/priyanshu1204/Leetcode/tree/master/0268-missing-number) |
 | [0476-number-complement](https://github.com/priyanshu1204/Leetcode/tree/master/0476-number-complement) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/priyanshu1204/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
+| [3291-find-if-array-can-be-sorted](https://github.com/priyanshu1204/Leetcode/tree/master/3291-find-if-array-can-be-sorted) |
 ## Divide and Conquer
 |  |
 | ------- |
