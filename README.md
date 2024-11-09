@@ -217,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0476-number-complement](https://github.com/priyanshu1204/Leetcode/tree/master/0476-number-complement) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/priyanshu1204/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [3291-find-if-array-can-be-sorted](https://github.com/priyanshu1204/Leetcode/tree/master/3291-find-if-array-can-be-sorted) |
+| [3394-minimum-array-end](https://github.com/priyanshu1204/Leetcode/tree/master/3394-minimum-array-end) |
 ## Divide and Conquer
 |  |
 | ------- |
