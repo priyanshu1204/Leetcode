@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/priyanshu1204/Leetcode/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/priyanshu1204/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0053-maximum-subarray](https://github.com/priyanshu1204/Leetcode/tree/master/0053-maximum-subarray) |
+| [0075-sort-colors](https://github.com/priyanshu1204/Leetcode/tree/master/0075-sort-colors) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/priyanshu1204/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/priyanshu1204/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/priyanshu1204/Leetcode/tree/master/0136-single-number) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/priyanshu1204/Leetcode/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/priyanshu1204/Leetcode/tree/master/0031-next-permutation) |
+| [0075-sort-colors](https://github.com/priyanshu1204/Leetcode/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/priyanshu1204/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/priyanshu1204/Leetcode/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/priyanshu1204/Leetcode/tree/master/0234-palindrome-linked-list) |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/priyanshu1204/Leetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/priyanshu1204/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/priyanshu1204/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/priyanshu1204/Leetcode/tree/master/0268-missing-number) |
