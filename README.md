@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/priyanshu1204/Leetcode/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/priyanshu1204/Leetcode/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/priyanshu1204/Leetcode/tree/master/0075-sort-colors) |
+| [0125-valid-palindrome](https://github.com/priyanshu1204/Leetcode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/priyanshu1204/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/priyanshu1204/Leetcode/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/priyanshu1204/Leetcode/tree/master/0234-palindrome-linked-list) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0006-zigzag-conversion](https://github.com/priyanshu1204/Leetcode/tree/master/0006-zigzag-conversion) |
 | [0013-roman-to-integer](https://github.com/priyanshu1204/Leetcode/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/priyanshu1204/Leetcode/tree/master/0020-valid-parentheses) |
+| [0125-valid-palindrome](https://github.com/priyanshu1204/Leetcode/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/priyanshu1204/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0392-is-subsequence](https://github.com/priyanshu1204/Leetcode/tree/master/0392-is-subsequence) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/priyanshu1204/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
