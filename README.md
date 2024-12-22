@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/priyanshu1204/Leetcode/tree/master/0053-maximum-subarray) |
 | [0074-search-a-2d-matrix](https://github.com/priyanshu1204/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/priyanshu1204/Leetcode/tree/master/0075-sort-colors) |
+| [0079-word-search](https://github.com/priyanshu1204/Leetcode/tree/master/0079-word-search) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/priyanshu1204/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/priyanshu1204/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/priyanshu1204/Leetcode/tree/master/0136-single-number) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0006-zigzag-conversion](https://github.com/priyanshu1204/Leetcode/tree/master/0006-zigzag-conversion) |
 | [0013-roman-to-integer](https://github.com/priyanshu1204/Leetcode/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/priyanshu1204/Leetcode/tree/master/0020-valid-parentheses) |
+| [0079-word-search](https://github.com/priyanshu1204/Leetcode/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/priyanshu1204/Leetcode/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/priyanshu1204/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0392-is-subsequence](https://github.com/priyanshu1204/Leetcode/tree/master/0392-is-subsequence) |
@@ -338,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/priyanshu1204/Leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/priyanshu1204/Leetcode/tree/master/0079-word-search) |
 | [0463-island-perimeter](https://github.com/priyanshu1204/Leetcode/tree/master/0463-island-perimeter) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/priyanshu1204/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [3227-find-missing-and-repeated-values](https://github.com/priyanshu1204/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
@@ -350,4 +353,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/priyanshu1204/Leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+## Backtracking
+|  |
+| ------- |
+| [0079-word-search](https://github.com/priyanshu1204/Leetcode/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
