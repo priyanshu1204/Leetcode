@@ -1,23 +1,15 @@
 class Solution {
     public boolean canConstruct(String ransomNote, String magazine) {
-        if (ransomNote.length() > magazine.length()) {
-            return false;
+        int[] letters = new int[26];
+        for (char c : magazine.toCharArray()) {
+            letters[c - 'a']++;
         }
-
-        Set<Character> ransomSet = new HashSet<>();
         for (char c : ransomNote.toCharArray()) {
-            ransomSet.add(c);
-        }
-
-        for (char c : ransomSet) {
-            if (countOccurrences(magazine, c) < countOccurrences(ransomNote, c)) {
+            letters[c - 'a']--;
+            if (letters[c - 'a'] < 0) {
                 return false;
             }
         }
         return true;
-    }
-
-    private int countOccurrences(String str, char c) {
-        return (int) str.chars().filter(ch -> ch == c).count();
     }
 }
