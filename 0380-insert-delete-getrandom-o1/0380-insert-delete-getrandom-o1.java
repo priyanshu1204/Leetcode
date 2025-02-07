@@ -1,50 +1,37 @@
+import java.util.*;
+
 class RandomizedSet {
-     ArrayList<Integer> list;
-     Map<Integer , Integer> map;
+    ArrayList<Integer> arr;
+    HashMap<Integer, Integer> mp;
+    Random random;
 
     public RandomizedSet() {
-        list = new ArrayList<>();
-        map = new HashMap<>();
-        
-    }
-    public boolean search(int val) {
-        return map.containsKey(val);
+        arr = new ArrayList<>();
+        mp = new HashMap<>();
+        random = new Random();
     }
     
     public boolean insert(int val) {
-        if (search(val)){
-            return false;
-        }
-        list.add(val);
-        map.put(val, list.size()-1);
+        if (mp.containsKey(val)) return false;
+        mp.put(val, arr.size()); 
+        arr.add(val);
         return true;
-        
     }
     
     public boolean remove(int val) {
-      if(!search(val)){
-        return false;
-      }
-      int index = map.get(val);
-      list.set(index,list.get(list.size()-1));
-      map.put(list.get(index), index);
-      list.remove(list.size()-1);
-      map.remove(val);
-      return true;
-        
+        if (!mp.containsKey(val)) return false;
+
+        int index = mp.get(val);  
+        int lastElement = arr.get(arr.size() - 1);
+        arr.set(index, lastElement);
+        mp.put(lastElement, index); 
+        arr.remove(arr.size() - 1);
+        mp.remove(val); 
+
+        return true;
     }
     
     public int getRandom() {
-        Random rand = new Random();
-        return list.get(rand.nextInt(list.size()));
-        
+        return arr.get(random.nextInt(arr.size()));
     }
 }
-
-/**
- * Your RandomizedSet object will be instantiated and called as such:
- * RandomizedSet obj = new RandomizedSet();
- * boolean param_1 = obj.insert(val);
- * boolean param_2 = obj.remove(val);
- * int param_3 = obj.getRandom();
- */
