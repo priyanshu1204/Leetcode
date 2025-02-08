@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/priyanshu1204/Leetcode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/priyanshu1204/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/priyanshu1204/Leetcode/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/priyanshu1204/Leetcode/tree/master/0067-add-binary) |
 | [0079-word-search](https://github.com/priyanshu1204/Leetcode/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/priyanshu1204/Leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/priyanshu1204/Leetcode/tree/master/0151-reverse-words-in-a-string) |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/priyanshu1204/Leetcode/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/priyanshu1204/Leetcode/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/priyanshu1204/Leetcode/tree/master/0050-powx-n) |
+| [0067-add-binary](https://github.com/priyanshu1204/Leetcode/tree/master/0067-add-binary) |
 | [0202-happy-number](https://github.com/priyanshu1204/Leetcode/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/priyanshu1204/Leetcode/tree/master/0268-missing-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/priyanshu1204/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
@@ -283,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/priyanshu1204/Leetcode/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/priyanshu1204/Leetcode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/priyanshu1204/Leetcode/tree/master/0136-single-number) |
 | [0222-count-complete-tree-nodes](https://github.com/priyanshu1204/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/priyanshu1204/Leetcode/tree/master/0268-missing-number) |
@@ -363,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/priyanshu1204/Leetcode/tree/master/0067-add-binary) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/priyanshu1204/Leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/priyanshu1204/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/priyanshu1204/Leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
