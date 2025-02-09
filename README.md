@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/priyanshu1204/Leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/priyanshu1204/Leetcode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/priyanshu1204/Leetcode/tree/master/0056-merge-intervals) |
+| [0066-plus-one](https://github.com/priyanshu1204/Leetcode/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/priyanshu1204/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/priyanshu1204/Leetcode/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/priyanshu1204/Leetcode/tree/master/0079-word-search) |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/priyanshu1204/Leetcode/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/priyanshu1204/Leetcode/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/priyanshu1204/Leetcode/tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/priyanshu1204/Leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/priyanshu1204/Leetcode/tree/master/0067-add-binary) |
 | [0202-happy-number](https://github.com/priyanshu1204/Leetcode/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/priyanshu1204/Leetcode/tree/master/0268-missing-number) |
