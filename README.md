@@ -247,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/priyanshu1204/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/priyanshu1204/Leetcode/tree/master/0143-reorder-list) |
 | [0145-binary-tree-postorder-traversal](https://github.com/priyanshu1204/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0225-implement-stack-using-queues](https://github.com/priyanshu1204/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/priyanshu1204/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0937-online-stock-span](https://github.com/priyanshu1204/Leetcode/tree/master/0937-online-stock-span) |
 | [1002-maximum-width-ramp](https://github.com/priyanshu1204/Leetcode/tree/master/1002-maximum-width-ramp) |
@@ -331,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/priyanshu1204/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0380-insert-delete-getrandom-o1](https://github.com/priyanshu1204/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0937-online-stock-span](https://github.com/priyanshu1204/Leetcode/tree/master/0937-online-stock-span) |
 ## Monotonic Stack
@@ -426,4 +428,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/priyanshu1204/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/priyanshu1204/Leetcode/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
