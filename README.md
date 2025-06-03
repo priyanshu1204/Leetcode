@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/priyanshu1204/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0380-insert-delete-getrandom-o1](https://github.com/priyanshu1204/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0383-ransom-note](https://github.com/priyanshu1204/Leetcode/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/priyanshu1204/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/priyanshu1204/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1039-find-the-town-judge](https://github.com/priyanshu1204/Leetcode/tree/master/1039-find-the-town-judge) |
 | [1256-rank-transform-of-an-array](https://github.com/priyanshu1204/Leetcode/tree/master/1256-rank-transform-of-an-array) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/priyanshu1204/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/priyanshu1204/Leetcode/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/priyanshu1204/Leetcode/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/priyanshu1204/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/priyanshu1204/Leetcode/tree/master/0392-is-subsequence) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/priyanshu1204/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/priyanshu1204/Leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
@@ -217,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/priyanshu1204/Leetcode/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/priyanshu1204/Leetcode/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/priyanshu1204/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0561-array-partition](https://github.com/priyanshu1204/Leetcode/tree/master/0561-array-partition) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/priyanshu1204/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1137-height-checker](https://github.com/priyanshu1204/Leetcode/tree/master/1137-height-checker) |
@@ -439,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/priyanshu1204/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/priyanshu1204/Leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [0387-first-unique-character-in-a-string](https://github.com/priyanshu1204/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 ## Memoization
 |  |
 | ------- |
