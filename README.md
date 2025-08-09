@@ -243,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/priyanshu1204/Leetcode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/priyanshu1204/Leetcode/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/priyanshu1204/Leetcode/tree/master/0202-happy-number) |
+| [0231-power-of-two](https://github.com/priyanshu1204/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/priyanshu1204/Leetcode/tree/master/0268-missing-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/priyanshu1204/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0670-maximum-swap](https://github.com/priyanshu1204/Leetcode/tree/master/0670-maximum-swap) |
@@ -312,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/priyanshu1204/Leetcode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/priyanshu1204/Leetcode/tree/master/0136-single-number) |
 | [0222-count-complete-tree-nodes](https://github.com/priyanshu1204/Leetcode/tree/master/0222-count-complete-tree-nodes) |
+| [0231-power-of-two](https://github.com/priyanshu1204/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/priyanshu1204/Leetcode/tree/master/0268-missing-number) |
 | [0476-number-complement](https://github.com/priyanshu1204/Leetcode/tree/master/0476-number-complement) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/priyanshu1204/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -365,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/priyanshu1204/Leetcode/tree/master/0050-powx-n) |
 | [0143-reorder-list](https://github.com/priyanshu1204/Leetcode/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/priyanshu1204/Leetcode/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/priyanshu1204/Leetcode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/priyanshu1204/Leetcode/tree/master/0234-palindrome-linked-list) |
 ## Breadth-First Search
 |  |
