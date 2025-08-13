@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1829-maximum-units-on-a-truck](https://github.com/priyanshu1204/Leetcode/tree/master/1829-maximum-units-on-a-truck) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/priyanshu1204/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/priyanshu1204/Leetcode/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
+| [2338-minimum-consecutive-cards-to-pick-up](https://github.com/priyanshu1204/Leetcode/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/priyanshu1204/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2502-sort-the-people](https://github.com/priyanshu1204/Leetcode/tree/master/2502-sort-the-people) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/priyanshu1204/Leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1694-make-sum-divisible-by-p](https://github.com/priyanshu1204/Leetcode/tree/master/1694-make-sum-divisible-by-p) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/priyanshu1204/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1904-second-largest-digit-in-a-string](https://github.com/priyanshu1204/Leetcode/tree/master/1904-second-largest-digit-in-a-string) |
+| [2338-minimum-consecutive-cards-to-pick-up](https://github.com/priyanshu1204/Leetcode/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
 | [2502-sort-the-people](https://github.com/priyanshu1204/Leetcode/tree/master/2502-sort-the-people) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/priyanshu1204/Leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [3227-find-missing-and-repeated-values](https://github.com/priyanshu1204/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
@@ -393,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/priyanshu1204/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/priyanshu1204/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [1755-defuse-the-bomb](https://github.com/priyanshu1204/Leetcode/tree/master/1755-defuse-the-bomb) |
+| [2338-minimum-consecutive-cards-to-pick-up](https://github.com/priyanshu1204/Leetcode/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
