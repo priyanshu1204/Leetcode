@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1829-maximum-units-on-a-truck](https://github.com/priyanshu1204/Leetcode/tree/master/1829-maximum-units-on-a-truck) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/priyanshu1204/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/priyanshu1204/Leetcode/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
+| [2331-intersection-of-multiple-arrays](https://github.com/priyanshu1204/Leetcode/tree/master/2331-intersection-of-multiple-arrays) |
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/priyanshu1204/Leetcode/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
 | [2339-k-divisible-elements-subarrays](https://github.com/priyanshu1204/Leetcode/tree/master/2339-k-divisible-elements-subarrays) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/priyanshu1204/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1694-make-sum-divisible-by-p](https://github.com/priyanshu1204/Leetcode/tree/master/1694-make-sum-divisible-by-p) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/priyanshu1204/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1904-second-largest-digit-in-a-string](https://github.com/priyanshu1204/Leetcode/tree/master/1904-second-largest-digit-in-a-string) |
+| [2331-intersection-of-multiple-arrays](https://github.com/priyanshu1204/Leetcode/tree/master/2331-intersection-of-multiple-arrays) |
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/priyanshu1204/Leetcode/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
 | [2339-k-divisible-elements-subarrays](https://github.com/priyanshu1204/Leetcode/tree/master/2339-k-divisible-elements-subarrays) |
 | [2502-sort-the-people](https://github.com/priyanshu1204/Leetcode/tree/master/2502-sort-the-people) |
@@ -227,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1468-check-if-n-and-its-double-exist](https://github.com/priyanshu1204/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1829-maximum-units-on-a-truck](https://github.com/priyanshu1204/Leetcode/tree/master/1829-maximum-units-on-a-truck) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/priyanshu1204/Leetcode/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
+| [2331-intersection-of-multiple-arrays](https://github.com/priyanshu1204/Leetcode/tree/master/2331-intersection-of-multiple-arrays) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/priyanshu1204/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2502-sort-the-people](https://github.com/priyanshu1204/Leetcode/tree/master/2502-sort-the-people) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/priyanshu1204/Leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -242,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1137-height-checker](https://github.com/priyanshu1204/Leetcode/tree/master/1137-height-checker) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/priyanshu1204/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/priyanshu1204/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
+| [2331-intersection-of-multiple-arrays](https://github.com/priyanshu1204/Leetcode/tree/master/2331-intersection-of-multiple-arrays) |
 ## Math
 |  |
 | ------- |
