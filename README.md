@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2132-convert-1d-array-into-2d-array](https://github.com/priyanshu1204/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/priyanshu1204/Leetcode/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/priyanshu1204/Leetcode/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
+| [2339-k-divisible-elements-subarrays](https://github.com/priyanshu1204/Leetcode/tree/master/2339-k-divisible-elements-subarrays) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/priyanshu1204/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2502-sort-the-people](https://github.com/priyanshu1204/Leetcode/tree/master/2502-sort-the-people) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/priyanshu1204/Leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1786-count-the-number-of-consistent-strings](https://github.com/priyanshu1204/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1904-second-largest-digit-in-a-string](https://github.com/priyanshu1204/Leetcode/tree/master/1904-second-largest-digit-in-a-string) |
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/priyanshu1204/Leetcode/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
+| [2339-k-divisible-elements-subarrays](https://github.com/priyanshu1204/Leetcode/tree/master/2339-k-divisible-elements-subarrays) |
 | [2502-sort-the-people](https://github.com/priyanshu1204/Leetcode/tree/master/2502-sort-the-people) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/priyanshu1204/Leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [3227-find-missing-and-repeated-values](https://github.com/priyanshu1204/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
@@ -406,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [2339-k-divisible-elements-subarrays](https://github.com/priyanshu1204/Leetcode/tree/master/2339-k-divisible-elements-subarrays) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/priyanshu1204/Leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Simulation
 |  |
@@ -479,4 +482,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/priyanshu1204/Leetcode/tree/master/2337-remove-digit-from-number-to-maximize-result) |
+| [2339-k-divisible-elements-subarrays](https://github.com/priyanshu1204/Leetcode/tree/master/2339-k-divisible-elements-subarrays) |
+## Rolling Hash
+|  |
+| ------- |
+| [2339-k-divisible-elements-subarrays](https://github.com/priyanshu1204/Leetcode/tree/master/2339-k-divisible-elements-subarrays) |
+## Hash Function
+|  |
+| ------- |
+| [2339-k-divisible-elements-subarrays](https://github.com/priyanshu1204/Leetcode/tree/master/2339-k-divisible-elements-subarrays) |
 <!---LeetCode Topics End-->
