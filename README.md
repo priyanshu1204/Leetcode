@@ -495,4 +495,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2339-k-divisible-elements-subarrays](https://github.com/priyanshu1204/Leetcode/tree/master/2339-k-divisible-elements-subarrays) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/priyanshu1204/Leetcode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
