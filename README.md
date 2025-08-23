@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/priyanshu1204/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/priyanshu1204/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0380-insert-delete-getrandom-o1](https://github.com/priyanshu1204/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
+| [0410-split-array-largest-sum](https://github.com/priyanshu1204/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/priyanshu1204/Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/priyanshu1204/Leetcode/tree/master/0455-assign-cookies) |
 | [0463-island-perimeter](https://github.com/priyanshu1204/Leetcode/tree/master/0463-island-perimeter) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/priyanshu1204/Leetcode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/priyanshu1204/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0135-candy](https://github.com/priyanshu1204/Leetcode/tree/master/0135-candy) |
+| [0410-split-array-largest-sum](https://github.com/priyanshu1204/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/priyanshu1204/Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/priyanshu1204/Leetcode/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/priyanshu1204/Leetcode/tree/master/0561-array-partition) |
@@ -370,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/priyanshu1204/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/priyanshu1204/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0374-guess-number-higher-or-lower](https://github.com/priyanshu1204/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
+| [0410-split-array-largest-sum](https://github.com/priyanshu1204/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/priyanshu1204/Leetcode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0792-binary-search](https://github.com/priyanshu1204/Leetcode/tree/master/0792-binary-search) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/priyanshu1204/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -441,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/priyanshu1204/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/priyanshu1204/Leetcode/tree/master/0238-product-of-array-except-self) |
+| [0410-split-array-largest-sum](https://github.com/priyanshu1204/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [1694-make-sum-divisible-by-p](https://github.com/priyanshu1204/Leetcode/tree/master/1694-make-sum-divisible-by-p) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/priyanshu1204/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 ## Dynamic Programming
@@ -454,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/priyanshu1204/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/priyanshu1204/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0392-is-subsequence](https://github.com/priyanshu1204/Leetcode/tree/master/0392-is-subsequence) |
+| [0410-split-array-largest-sum](https://github.com/priyanshu1204/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0494-target-sum](https://github.com/priyanshu1204/Leetcode/tree/master/0494-target-sum) |
 | [0647-palindromic-substrings](https://github.com/priyanshu1204/Leetcode/tree/master/0647-palindromic-substrings) |
 ## Matrix
