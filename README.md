@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1392-find-the-difference-of-two-arrays](https://github.com/priyanshu1204/Leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/priyanshu1204/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/priyanshu1204/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/priyanshu1204/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1694-make-sum-divisible-by-p](https://github.com/priyanshu1204/Leetcode/tree/master/1694-make-sum-divisible-by-p) |
 | [1755-defuse-the-bomb](https://github.com/priyanshu1204/Leetcode/tree/master/1755-defuse-the-bomb) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/priyanshu1204/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -417,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/priyanshu1204/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/priyanshu1204/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/priyanshu1204/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1755-defuse-the-bomb](https://github.com/priyanshu1204/Leetcode/tree/master/1755-defuse-the-bomb) |
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/priyanshu1204/Leetcode/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
 ## Heap (Priority Queue)
@@ -463,6 +465,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/priyanshu1204/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0494-target-sum](https://github.com/priyanshu1204/Leetcode/tree/master/0494-target-sum) |
 | [0647-palindromic-substrings](https://github.com/priyanshu1204/Leetcode/tree/master/0647-palindromic-substrings) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/priyanshu1204/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Matrix
 |  |
 | ------- |
