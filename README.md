@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2331-intersection-of-multiple-arrays](https://github.com/priyanshu1204/Leetcode/tree/master/2331-intersection-of-multiple-arrays) |
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/priyanshu1204/Leetcode/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
 | [2339-k-divisible-elements-subarrays](https://github.com/priyanshu1204/Leetcode/tree/master/2339-k-divisible-elements-subarrays) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/priyanshu1204/Leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/priyanshu1204/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2502-sort-the-people](https://github.com/priyanshu1204/Leetcode/tree/master/2502-sort-the-people) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/priyanshu1204/Leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -282,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/priyanshu1204/Leetcode/tree/master/0415-add-strings) |
 | [0670-maximum-swap](https://github.com/priyanshu1204/Leetcode/tree/master/0670-maximum-swap) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/priyanshu1204/Leetcode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/priyanshu1204/Leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [3227-find-missing-and-repeated-values](https://github.com/priyanshu1204/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/priyanshu1204/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Stack
