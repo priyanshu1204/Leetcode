@@ -547,6 +547,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0595-big-countries](https://github.com/priyanshu1204/Leetcode/tree/master/0595-big-countries) |
 | [0596-classes-with-at-least-5-students](https://github.com/priyanshu1204/Leetcode/tree/master/0596-classes-with-at-least-5-students) |
 | [0607-sales-person](https://github.com/priyanshu1204/Leetcode/tree/master/0607-sales-person) |
+| [0619-biggest-single-number](https://github.com/priyanshu1204/Leetcode/tree/master/0619-biggest-single-number) |
 ## Interactive
 |  |
 | ------- |
