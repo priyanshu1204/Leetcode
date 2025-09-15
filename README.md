@@ -545,6 +545,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0176-second-highest-salary](https://github.com/priyanshu1204/Leetcode/tree/master/0176-second-highest-salary) |
 | [0182-duplicate-emails](https://github.com/priyanshu1204/Leetcode/tree/master/0182-duplicate-emails) |
 | [0595-big-countries](https://github.com/priyanshu1204/Leetcode/tree/master/0595-big-countries) |
+| [0596-classes-with-at-least-5-students](https://github.com/priyanshu1204/Leetcode/tree/master/0596-classes-with-at-least-5-students) |
 | [0607-sales-person](https://github.com/priyanshu1204/Leetcode/tree/master/0607-sales-person) |
 ## Interactive
 |  |
