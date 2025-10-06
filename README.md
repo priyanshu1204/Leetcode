@@ -298,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/priyanshu1204/Leetcode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/priyanshu1204/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/priyanshu1204/Leetcode/tree/master/0268-missing-number) |
+| [0292-nim-game](https://github.com/priyanshu1204/Leetcode/tree/master/0292-nim-game) |
 | [0380-insert-delete-getrandom-o1](https://github.com/priyanshu1204/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0412-fizz-buzz](https://github.com/priyanshu1204/Leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/priyanshu1204/Leetcode/tree/master/0415-add-strings) |
@@ -570,4 +571,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/priyanshu1204/Leetcode/tree/master/0148-sort-list) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/priyanshu1204/Leetcode/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/priyanshu1204/Leetcode/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
