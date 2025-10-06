@@ -304,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/priyanshu1204/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0412-fizz-buzz](https://github.com/priyanshu1204/Leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/priyanshu1204/Leetcode/tree/master/0415-add-strings) |
+| [0507-perfect-number](https://github.com/priyanshu1204/Leetcode/tree/master/0507-perfect-number) |
 | [0670-maximum-swap](https://github.com/priyanshu1204/Leetcode/tree/master/0670-maximum-swap) |
 | [1018-largest-perimeter-triangle](https://github.com/priyanshu1204/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/priyanshu1204/Leetcode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
