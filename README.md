@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/priyanshu1204/Leetcode/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/priyanshu1204/Leetcode/tree/master/0605-can-place-flowers) |
 | [0624-maximum-distance-in-arrays](https://github.com/priyanshu1204/Leetcode/tree/master/0624-maximum-distance-in-arrays) |
+| [0697-degree-of-an-array](https://github.com/priyanshu1204/Leetcode/tree/master/0697-degree-of-an-array) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/priyanshu1204/Leetcode/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0792-binary-search](https://github.com/priyanshu1204/Leetcode/tree/master/0792-binary-search) |
 | [0890-lemonade-change](https://github.com/priyanshu1204/Leetcode/tree/master/0890-lemonade-change) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/priyanshu1204/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/priyanshu1204/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/priyanshu1204/Leetcode/tree/master/0496-next-greater-element-i) |
+| [0697-degree-of-an-array](https://github.com/priyanshu1204/Leetcode/tree/master/0697-degree-of-an-array) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/priyanshu1204/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1039-find-the-town-judge](https://github.com/priyanshu1204/Leetcode/tree/master/1039-find-the-town-judge) |
 | [1256-rank-transform-of-an-array](https://github.com/priyanshu1204/Leetcode/tree/master/1256-rank-transform-of-an-array) |
