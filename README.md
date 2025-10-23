@@ -350,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/priyanshu1204/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/priyanshu1204/Leetcode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0563-binary-tree-tilt](https://github.com/priyanshu1204/Leetcode/tree/master/0563-binary-tree-tilt) |
+| [0783-search-in-a-binary-search-tree](https://github.com/priyanshu1204/Leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0904-leaf-similar-trees](https://github.com/priyanshu1204/Leetcode/tree/master/0904-leaf-similar-trees) |
 ## Depth-First Search
 |  |
@@ -377,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/priyanshu1204/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/priyanshu1204/Leetcode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0563-binary-tree-tilt](https://github.com/priyanshu1204/Leetcode/tree/master/0563-binary-tree-tilt) |
+| [0783-search-in-a-binary-search-tree](https://github.com/priyanshu1204/Leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0904-leaf-similar-trees](https://github.com/priyanshu1204/Leetcode/tree/master/0904-leaf-similar-trees) |
 ## Bit Manipulation
 |  |
@@ -420,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0374-guess-number-higher-or-lower](https://github.com/priyanshu1204/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [0410-split-array-largest-sum](https://github.com/priyanshu1204/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/priyanshu1204/Leetcode/tree/master/0501-find-mode-in-binary-search-tree) |
+| [0783-search-in-a-binary-search-tree](https://github.com/priyanshu1204/Leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0792-binary-search](https://github.com/priyanshu1204/Leetcode/tree/master/0792-binary-search) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/priyanshu1204/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/priyanshu1204/Leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
