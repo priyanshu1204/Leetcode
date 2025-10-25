@@ -318,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-largest-perimeter-triangle](https://github.com/priyanshu1204/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/priyanshu1204/Leetcode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/priyanshu1204/Leetcode/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
+| [1817-calculate-money-in-leetcode-bank](https://github.com/priyanshu1204/Leetcode/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/priyanshu1204/Leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [3227-find-missing-and-repeated-values](https://github.com/priyanshu1204/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/priyanshu1204/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
